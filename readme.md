@@ -10,5 +10,5 @@ Watching Youtube video tutorial.
 
 1. Open index.html in your browser.
 
-what is happening
+what is happening?
 
